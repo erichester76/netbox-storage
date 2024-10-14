@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='netbox-storage-plugin',
+    name='netbox-storage',
     version='0.6.3',
     description='NetBox storage plugin',
     long_description=long_description,
